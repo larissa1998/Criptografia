@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/28 16:28:41.000.550,=C:\Users\larissafm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/16 14:34:24.000.584,=C:\Users\larissafm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/16 14:34:33.000.004,C:\Users\larissafm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\larissafm\Desktop\satyro\UnitPrincipal.dfm</Transaction>
+    <Transaction>2015/11/16 14:34:33.000.004,C:\Users\larissafm\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\larissafm\Desktop\satyro\UnitPrincipal.pas</Transaction>
+    <Transaction>2015/11/16 14:34:50.000.201,C:\Users\larissafm\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\larissafm\Desktop\satyro\ProjectCripto.dproj</Transaction>
+    <Transaction>2015/11/16 14:34:59.000.473,=C:\Users\larissafm\Desktop\satyro\Unit2.pas</Transaction>
+    <Transaction>2015/11/16 14:35:06.000.564,C:\Users\larissafm\Desktop\satyro\Unit2.dfm=C:\Users\larissafm\Desktop\satyro\UnitAtbash.dfm</Transaction>
+    <Transaction>2015/11/16 14:35:06.000.564,C:\Users\larissafm\Desktop\satyro\Unit2.pas=C:\Users\larissafm\Desktop\satyro\UnitAtbash.pas</Transaction>
+    <Transaction>2015/11/16 14:54:34.000.054,=C:\Users\larissafm\Desktop\satyro\Unit2.pas</Transaction>
+    <Transaction>2015/11/16 14:54:44.000.256,C:\Users\larissafm\Desktop\satyro\Unit2.dfm=C:\Users\larissafm\Desktop\satyro\UnitAlbam.dfm</Transaction>
+    <Transaction>2015/11/16 14:54:44.000.256,C:\Users\larissafm\Desktop\satyro\Unit2.pas=C:\Users\larissafm\Desktop\satyro\UnitAlbam.pas</Transaction>
+    <Transaction>2015/11/16 15:29:44.335,=E:\Criptasha\satyro\Unit2.pas</Transaction>
+    <Transaction>2015/11/16 15:29:52.102,E:\Criptasha\satyro\UnitAtbah.pas=E:\Criptasha\satyro\Unit2.pas</Transaction>
+    <Transaction>2015/11/16 15:29:52.102,E:\Criptasha\satyro\UnitAtbah.dfm=E:\Criptasha\satyro\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
